@@ -1,5 +1,16 @@
 {
   "projects": {
-    "default": "flowershop-by-rahat"
-  }
+    "default": "portfolio-projects-rahat"
+  },
+  "targets": {
+    "portfolio-projects-rahat": {
+      "hosting": {
+        "flowershop": [
+          "flowershops-by-rahat"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }

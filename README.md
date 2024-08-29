@@ -1,3 +1,3 @@
 **Live website**
 
-https://flowershop-by-rahat.web.app/
+https://flowershops-by-rahat.web.app/
